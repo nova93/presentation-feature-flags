@@ -4,7 +4,7 @@
       href="https://github.com/nova93/presentation-feature-flags"
       target="_blank"
       alt="GitHub"
-      class="text-xl icon-btn opacity-50 !border-none !hover:text-white"
+      class="text-xl icon-btn opacity-50 !hover:opacity-100"
     >
       <img id="self-promotion" class="abs-br" src="/rose.jpg" />
     </a>
