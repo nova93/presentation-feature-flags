@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.5",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "presentation-micro-frontends",
+  "devDependencies": {
+    "@iconify-json/uim": "^1.1.1"
+  }
+}
