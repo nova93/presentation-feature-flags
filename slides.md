@@ -56,3 +56,9 @@ src: ./slides/6-best-practices.md
 layout: section
 src: ./slides/7-conclusion.md
 ---
+
+---
+layout: image-right
+image: ./branch-protection.png
+src: ./slides/8-branch-protections.md
+---
