@@ -6,7 +6,7 @@
       alt="GitHub"
       class="text-xl icon-btn opacity-50 !hover:opacity-100"
     >
-      <img id="self-promotion" class="abs-br" src="/rose.jpg" />
+      <img id="self-promotion" class="abs-br" src="/rose.png" />
     </a>
   </div>
 </template>
